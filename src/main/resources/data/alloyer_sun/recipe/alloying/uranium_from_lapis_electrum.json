@@ -1,0 +1,19 @@
+{
+  "type": "mekanismsun:alloying",
+  "main_input": {
+    "count": 1,
+    "tag": "c:gems/lapis"
+  },
+  "extra_input": {
+    "count": 1,
+    "tag": "c:ingots/electrum"
+  },
+  "chemical_input": {
+    "amount": 25,
+    "chemical": "mekanism:hydrogen"
+  },
+  "output": {
+    "count": 2,
+    "id": "mekanism:ingot_uranium"
+  }
+}
